@@ -526,7 +526,7 @@ html.is-animating .transition-shift {
     .home{
         background-image: url("assets/home/background-home-tablet.jpg");
         background-repeat: no-repeat;
-        background-size: 100%;
+        background-size: cover;
     }
 
     body{ 
@@ -784,7 +784,7 @@ html.is-animating .transition-shift {
     .home{
         background-image: url("assets/home/background-home-desktop.jpg");
         background-repeat: no-repeat;
-        background-size: 100%;
+        background-size: cover;
     }
 
     h5{
@@ -823,7 +823,7 @@ html.is-animating .transition-shift {
     .destination{
         background-image: url("assets/destination/background-destination-desktop.jpg");
         background-repeat: no-repeat;
-        background-size: 100%;
+        background-size: cover;
     }
 
     .text__content{
@@ -948,7 +948,7 @@ html.is-animating .transition-shift {
     .technology{
         background-image: url("assets/technology/background-technology-desktop.jpg");
         background-repeat: no-repeat;
-        background-size: 100%;
+        background-size: cover;
     }
 
     .tech__content{
