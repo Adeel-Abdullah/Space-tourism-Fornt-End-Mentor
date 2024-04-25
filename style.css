@@ -990,6 +990,7 @@ html.is-animating .transition-shift {
     }
 
     .LG__tech__content{
+        display: flex;
         width:80%;
         margin-left: 2rem;
     }
